@@ -1,0 +1,23 @@
+
+puzzle 1 = scramble
+ display the scrambled word using the text command
+ design an text input box,ok button, back button
+
+ puzzle2 -riddle
+ display the riddle with the text command
+ design an text input box,ok button, back button
+
+ puzzle3-maze
+ copy the 1st capstone game
+
+ gamestates for the game
+ gamestate = title- 1st screen of the game
+ gamestate= start- pressing the space button
+ gamestate=puzzle1- takes you the the1st puzzle
+ gamestate= puzzle2
+ gamestate3 =puzzle3(optional)
+ gamestate =end
+
+ functions for enable/disable background
+
+
